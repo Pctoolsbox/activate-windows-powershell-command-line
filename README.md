@@ -12,7 +12,7 @@
 
 ### PowerShell (Windows 8 / Windows 10 / Windows 11 / all office versions) ❤️
 ## How to use it Activate Windows or Office via Powershell?
-1.   Open PowerShell (Not CMD). To do that, right-click on the Windows start menu and select windows powershell(Admin) or Terminal.
+1.   Open PowerShell (Not CMD). To do that, right-click on the Windows start menu and select windows powershell (Admin) or Terminal.
 2.   Copy and paste the code below and press enter  
 ```
 irm activate-windows.pctoolsbox.com | iex
