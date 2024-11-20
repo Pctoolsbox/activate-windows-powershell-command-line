@@ -2,9 +2,6 @@
 
 <h1 align="center">Microsoft Activate Windows via Powershell Command Line(MAS)</h1>
 
-  
-## How to use it Activate Windows via Powershell?
-
 ## Activations Summary
 | Activation Type | Supported Product | Activation Period |
 | --- | --- | --- |
@@ -14,7 +11,7 @@
 | Online KMS | Windows / Office | 180 Days. Lifetime With Renewal Task |
 
 ### PowerShell (Windows 8 / Windows 10 / Windows 11 / all office versions) ❤️
-
+## How to use it Activate Windows via Powershell?
 1.   Open PowerShell (Not CMD). To do that, right-click on the Windows start menu and select windows powershell(Admin) or Terminal.
 2.   Copy and paste the code below and press enter  
 ```
